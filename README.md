@@ -1,3 +1,10 @@
+# Penn Quantitative Imaging Resource for Pancreatic Cancer
+
+## Mission
+Our mission is to facilitate the development of effective therapies for pancreatic ductal adenocarcinoma (PDA) via the applications of imaging tools. We strive to develop robust imaging tools in murine models of PDA and translate them to the clinic in settings of co-clinical imaging.
+
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/jeffduda/PennU24Resource/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
