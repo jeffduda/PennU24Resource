@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Penn Quantitative Imaging Resource for Pancreatic Cancer Take 2
+# Penn Quantitative Imaging Resource for Pancreatic Cancer
 
 ## Mission
 Our mission is to facilitate the development of effective therapies for pancreatic ductal adenocarcinoma (PDA) via the applications of imaging tools. We strive to develop robust imaging tools in murine models of PDA and translate them to the clinic in settings of co-clinical imaging.
