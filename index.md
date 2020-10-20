@@ -2,6 +2,8 @@
 layout: default
 ---
 
+![headerimage](https://www.med.upenn.edu/PennU24Resource/assets/image-cache/banner-home-new.233d64b2.png)
+
 # Penn Quantitative Imaging Resource for Pancreatic Cancer
 
 ## Mission
